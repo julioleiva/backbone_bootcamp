@@ -1,0 +1,1 @@
+var todoItems = Backbone.Collection.extend({});
